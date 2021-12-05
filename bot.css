@@ -1,0 +1,132 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    font-size: 16px;
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.prinpal{
+    height: 95%;
+    width: 95%;
+    font-size: 1.1em;
+}
+.secu{
+    border-radius: 10px;
+    background: #fed;
+}
+.terce{
+
+}
+
+.cabe{
+    padding: 1em 1.5em;
+    padding-bottom: .5em;
+    border-bottom: 1px solid #faf;   
+}
+.cabe header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.cabe h1{
+    
+}
+.imagen{
+    display: inline;
+}
+.img{
+    width: 60px;
+    border-radius: 50%;
+}
+.chat{
+    height: 72vh;
+    overflow: auto;
+}
+.con__chat{
+    padding: 0 2em;
+
+}
+.amity{
+    display: flex;
+    justify-content: left;
+    margin: .8em 0;
+    
+
+}
+.amity__div{
+    max-width: 500px;
+}
+.amity__txt{
+    padding: .7em .8em;
+    background: #f7a;
+    border-radius: 30px;
+}
+.amity__txt img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    max-width: 400px;
+    width: 95%;
+}
+.yo{
+    display: flex;
+    justify-content: right;
+    margin: .8em 0;
+    
+}
+.yo__div{
+    max-width: 500px;
+}
+.yo__txt{
+    padding: .7em .8em;
+    background: #d7F;
+    border-radius: 30px;
+}
+
+.inpus{
+    border-top: 1px solid #faf;
+    padding-top: 1em;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+#txttexto{
+    border-radius: 40px;
+    box-shadow: 0px 0px 10px #faf;
+    background: #faf;
+    min-width: 150px;
+    width: 70%;
+    margin: .1em 2em;
+    padding: .1em .5em;
+    font-size: 1em;
+}
+#btnenviar{
+    font-size: 1em;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #faf;
+    background: #faf;
+    margin: 0 1em;
+    padding: .1em .5em;
+}
+
+.espacio{
+    height: 2vh;
+    position: relative;
+}
+
+iframe{
+    max-width: 400px;
+    max-height: 400px;
+}
+
+
