@@ -126,7 +126,19 @@ body{
 
 iframe{
     max-width: 400px;
+    width: 95%;
     max-height: 400px;
+    height: 95%;
 }
 
-
+@media screen and (max-width: 680px){
+    .con__chat{
+        padding: 0 0.3em;
+    }
+    #txttexto{
+        margin: 0 0.2em;
+    }
+    #btnenviar{
+        margin: 0 0.2em;
+    }
+}
