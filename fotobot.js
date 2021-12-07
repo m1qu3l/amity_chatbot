@@ -38,6 +38,11 @@ class foto{
             '<img src="https://steamuserimages-a.akamaihd.net/ugc/1693899082394882845/AAE98C82BA74A24AF13B55A179CBF676861FC359/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">',
             '<img src="https://i.pinimg.com/564x/e9/2e/a4/e92ea40f95caa2fe9b4be9d12ea4206b.jpg">',
             '<img src="https://img.wattpad.com/a4e13ef2e13aad61f5365474edd4779f55a80e2a/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f37776176572d6931354671796e773d3d2d3137342e313639636265356531656635316666613933353030363336373333352e6a7067?s=fit&w=720&h=720">',
+            '<img src="https://pbs.twimg.com/media/E7GG_o1X0AMEJGl.jpg">',
+            '<img src="https://pbs.twimg.com/media/E6-6GRHWYAQenrk.jpg:small">',
+            '<img src="https://i.pinimg.com/originals/a8/d9/90/a8d99053c8289253ffe734c14da59d89.png">',
+            '<img src="https://i.pinimg.com/originals/75/f2/7a/75f27a8b92a7212ebbafbc8748664475.jpg">',
+            '<img src="https://pbs.twimg.com/media/E_OWp3yUYAYlESR.jpg">',
         ];
         this.mos()
     }
@@ -52,6 +57,7 @@ class foto{
                     conChatfo.innerHTML += `<div class="amity"><div class="amity__div"><p class="amity__txt">te gusta</p></div></div>`
                 }, 800);
             }, 900);
+            txfo.value=""
         }
     }
 }
