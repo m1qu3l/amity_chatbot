@@ -21,6 +21,7 @@ class hora{
             setTimeout(() => {
                 conChathora.innerHTML += `<div class="amity"><div class="amity__div"><p class="amity__txt">son las: ${this.amity}</p></div></div>`
             }, 900);
+            txho.value=""
         }
     }
 }
