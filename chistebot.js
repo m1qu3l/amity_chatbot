@@ -59,6 +59,10 @@ class chiste{
 }
 
 btnc.addEventListener('click',()=>{
-const cuenchis = new chiste (tx.value,'cuentame un chiste');
-const dimechis = new chiste (tx.value,'dime un chiste')
+    const cuenchis = new chiste (tx.value,'cuentame un chiste');
+    const dimechis = new chiste (tx.value,'dime un chiste')
+    const cuenchis1 = new chiste (tx.value,'Cuentame un chiste');
+    const dimechis2 = new chiste (tx.value,'Dime un chiste')
+    const cuenchis3 = new chiste (tx.value,'Cuéntame un chiste');
+    const dimechis4 = new chiste (tx.value,'cuéntame un chiste')
 })
