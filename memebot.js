@@ -49,4 +49,19 @@ btnmeme.addEventListener('click',()=>{
     const m = new meme(txmeme.value,'muestrame un meme')
     const pa = new meme(txmeme.value,'pasame un meme')
     const ma = new meme(txmeme.value,'mandame un meme')
+
+    const m1 = new meme(txmeme.value,'muéstrame un meme')
+    const pa1 = new meme(txmeme.value,'pásame un meme')
+    const ma1 = new meme(txmeme.value,'mándame un meme')
+
+    const M = new meme(txmeme.value,'Muestrame un meme')
+    const Pa = new meme(txmeme.value,'Pasame un meme')
+    const Ma = new meme(txmeme.value,'Mandame un meme')
+
+    
+    const M1 = new meme(txmeme.value,'Muéstrame un meme')
+    const Pa1 = new meme(txmeme.value,'Pásame un meme ')
+    const Ma1 = new meme(txmeme.value,'Mándame un meme')
+
+
 })
