@@ -41,6 +41,7 @@ class meme{
                     conchatmeme.innerHTML += `<div class="amity"><div class="amity__div"><p class="amity__txt">${this.amitymeme[rammeme]}</p></div></div>`
                 }, 800);
             }, 900);
+            txmeme.value=""
         }
     }
 }
