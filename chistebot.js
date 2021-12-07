@@ -54,6 +54,7 @@ class chiste{
                     conChatchi.innerHTML += `<div class="amity"><div class="amity__div"><p class="amity__txt">${this.amitychistes[ramdos]}</p></div></div>`
                 }, 800);
             }, 900);
+            tx.value=""
         }
     }
 }
