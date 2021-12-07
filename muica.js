@@ -54,4 +54,23 @@ btca.addEventListener('click',()=>{
     const pamu = new musica(txca.value,'pasame una musica')
     const ponmu = new musica(txca.value,'pon musica');
     const esmu = new musica(txca.value,'pasame una musica que escuchas')
+
+    const remu1 = new musica(txca.value,'recomiéndame una musica')
+    const pamu1 = new musica(txca.value,'pásame una musica')
+    const esmu1 = new musica(txca.value,'pásame una musica que escuchas')
+
+    const remu2 = new musica(txca.value,'Recomiendame una musica')
+    const pamu2 = new musica(txca.value,'Pasame una musica')
+    const ponmu2 = new musica(txca.value,'Pon musica');
+    const esmu2 = new musica(txca.value,'Pasame una musica que escuchas')
+
+    const remu3 = new musica(txca.value,'recomiéndame una música')
+    const pamu3 = new musica(txca.value,'pásame una música')
+    const ponmu3 = new musica(txca.value,'pon música');
+    const esmu3 = new musica(txca.value,'pásame una música que escuchas')
+
+    const remu4 = new musica(txca.value,'Recomiéndame una música')
+    const pamu4 = new musica(txca.value,'Pásame una música')
+    const ponmu4 = new musica(txca.value,'Pon música');
+    const esmu4 = new musica(txca.value,'Pásame una música que escuchas')
 })
