@@ -61,4 +61,20 @@ btnfo.addEventListener('click',()=>{
     const pasfoto = new foto(txfo.value,'pasame una foto tuya')
     const envi = new foto(txfo.value, 'enviame una foto tuya')
     const pasimg = new foto(txfo.value,'tomate una foto y pasamela')
+
+    const manfoto1 = new foto(txfo.value,'mándame una foto tuya')
+    const pasfoto1 = new foto(txfo.value,'pásame una foto tuya')
+    const envi1 = new foto(txfo.value, 'envíame una foto tuya')
+    const pasimg1 = new foto(txfo.value,'tomate una foto y pásamela')
+
+    const manfoto2 = new foto(txfo.value,'Mandame una foto tuya')
+    const pasfoto2 = new foto(txfo.value,'Pasame una foto tuya')
+    const envi2 = new foto(txfo.value, 'Enviame una foto tuya')
+    const pasimg2 = new foto(txfo.value,'Tomate una foto y pasamela')
+
+    const manfoto3 = new foto(txfo.value,'Mándame una foto tuya')
+    const pasfoto3 = new foto(txfo.value,'Pásame una foto tuya')
+    const envi3 = new foto(txfo.value, 'Envíame una foto tuya')
+    const pasimg3 = new foto(txfo.value,'Tomate una foto y pásamela')
+
 })
