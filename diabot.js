@@ -22,6 +22,7 @@ class dia{
             setTimeout(() => {
                 conchathoy.innerHTML += `<div class="amity"><div class="amity__div"><p class="amity__txt">el dia es: ${this.amity} o tambien ${this.amity1}</p></div></div>`
             }, 900);
+            txthoy.value=""
         }
     }
 }
