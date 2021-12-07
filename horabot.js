@@ -28,5 +28,15 @@ class hora{
 btho.addEventListener('click',()=>{
     const ho = new hora(txho.value,'dime la hora');
     const cual = new hora(txho.value,'cual es la hora')
-    const hor = new hora(txho.value,'que hora es');
+    const hor = new hora(txho.value,'que hora es');    
+    
+    const Ho = new hora(txho.value,'Dime la hora');
+    const Cual = new hora(txho.value,'Cual es la hora')
+    const Hor = new hora(txho.value,'Que hora es');
+
+    const Cual2 = new hora(txho.value,'cuál es la hora')
+    const Hor2 = new hora(txho.value,'qué hora es');
+
+    const Cual3 = new hora(txho.value,'Cuál es la hora')
+    const Hor3 = new hora(txho.value,'Qué hora es');
 })
