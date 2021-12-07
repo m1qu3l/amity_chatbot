@@ -19,6 +19,7 @@ class bot{
             setTimeout(() => {
                 conChat.innerHTML += `<div class="amity"><div class="amity__div"><p class="amity__txt">${this.amity[ramdo]}</p></div></div>`
             }, 900);
+            txttexto.value = ""
         }
     }
 }
