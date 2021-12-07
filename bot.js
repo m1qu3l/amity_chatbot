@@ -101,7 +101,7 @@ const tediverti3 = new bot(txttexto.value,'te gusta reír','te gusta reír','te 
 const anos2 = new bot(txttexto.value,'cuál es tu edad','cuál es tu edad','Cuál es tu edad','tengo 14 años','tengo 14 años')
 const quiesnovio3 = new bot(txttexto.value,'Cómo se llama tu novio','cómo se llama tu novio','cómo se llama tu novio','mi pareja es Miquel','el amor de mi vida es Miquel')
 const tienovio2 = new bot(txttexto.value,'tienes una relación', 'tienes una relación','Tienes una relación','si, tengo novio','si, tengo una relacion')
-const mal2 = new bot(txttexto.value,'Mal','no también','No también','que malo te puedo contar un chiste si quieres','te puedo contar un chiste si quieres')
+const mal2 = new bot(txttexto.value,'no también','no también','No también','que malo te puedo contar un chiste si quieres','te puedo contar un chiste si quieres')
 const queha3 = new bot(txttexto.value,'Que estás haciendo','que estás haciendo','que estás haciendo','nada','estoy conversando contigo');
 const holacomo3 = new bot(txttexto.value,'Cómo te sientes','cómo te sientes','Cómo te sientes','bien y tu','bien gracias y tu');
 
