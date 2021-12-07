@@ -45,6 +45,7 @@ class musica{
                     conChathoca.innerHTML += `<div class="amity"><div class="amity__div"><p class="amity__txt">${this.amityvideo[ramdomu]}</p></div></div>`
                 }, 800);
             }, 900);
+            txca.value=""
         }
     }
 }
