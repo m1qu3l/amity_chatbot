@@ -85,26 +85,20 @@ const feanocierto1 = new bot(txttexto.value,'Eres fea','Estas fea','Eres fea','c
 const tesoymi1 = new bot(txttexto.value,'Te amo soy miquel','Soy miquel','Te amo soy miqel','Te amo','te amo mucho')
 const mimas1 = new bot(txttexto.value,'Miquel te ama mas','Miquel te ama mas','Miquel te ama mas','yo te amo mas','yo mas')
 const bye1 = new bot(txttexto.value,'Chao','Bye','Hasta luego','Chao','bye')
-
-
 const nom3 = new bot(txttexto.value,'cómo te llamas','cuál es tu nombre','cómo te dicen','me llamo Amity pero me dicen manoplas','me llamo Amity pero me dicen manoplas')
 const nom2 = new bot(txttexto.value,'Cómo te llamas','Cuál es tu nombre','Cómo te dicen','me llamo Amity pero me dicen manoplas','me llamo Amity pero me dicen manoplas')
-
 const temusi2 = new bot(txttexto.value,'te gusta la música','te gusta la música','te gusta la música','me gusta la musica en ingles','me encanta la musica pero solo las de ingles')
 const temusi3 = new bot(txttexto.value,'Te gusta la música','Escuchas música','escuchas música','me gusta la musica en ingles','me encanta la musica pero solo las de ingles')
-
 const peli2 = new bot(txttexto.value,'Te gustan las películas','te gusta la televisión','Te gusta la televisión','si megustan pero no mucho','no tanto');
 const peli3 = new bot(txttexto.value,'te gustan las películas','te gustan las películas','te gustan las películas','si megustan pero no mucho','no tanto');
-
 const tediverti2 = new bot(txttexto.value,'Te gusta la diversión','Te gusta la diversión','Te gusta reír',' si me gusta', 'si me esncanta')
 const tediverti3 = new bot(txttexto.value,'te gusta reír','te gusta reír','te gusta reír',' si me gusta', 'si me esncanta')
-
 const anos2 = new bot(txttexto.value,'cuál es tu edad','cuál es tu edad','Cuál es tu edad','tengo 14 años','tengo 14 años')
 const quiesnovio3 = new bot(txttexto.value,'Cómo se llama tu novio','cómo se llama tu novio','cómo se llama tu novio','mi pareja es Miquel','el amor de mi vida es Miquel')
 const tienovio2 = new bot(txttexto.value,'tienes una relación', 'tienes una relación','Tienes una relación','si, tengo novio','si, tengo una relacion')
 const mal2 = new bot(txttexto.value,'no también','no también','No también','que malo te puedo contar un chiste si quieres','te puedo contar un chiste si quieres')
 const queha3 = new bot(txttexto.value,'Que estás haciendo','que estás haciendo','que estás haciendo','nada','estoy conversando contigo');
 const holacomo3 = new bot(txttexto.value,'Cómo te sientes','cómo te sientes','Cómo te sientes','bien y tu','bien gracias y tu');
-
-
+const persolovemiquel = new bot(txttexto.value,'Que persona le gusta a Miquel','Que persona le gusta a miquel','que persona le gusta a miquel','bien y tu','bien gracias y tu');
+const persolovemiquel2 = new bot(txttexto.value,'QUE PERSONA LE GUSTA A MIQUEl','Qué persona le gusta a Miquel','que persona le gusta a Miquel','bien y tu','bien gracias y tu');
 })
