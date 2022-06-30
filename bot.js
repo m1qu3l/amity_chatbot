@@ -98,7 +98,7 @@ const quiesnovio3 = new bot(txttexto.value,'Cómo se llama tu novio','cómo se l
 const tienovio2 = new bot(txttexto.value,'tienes una relación', 'tienes una relación','Tienes una relación','si, tengo novio','si, tengo una relacion')
 const mal2 = new bot(txttexto.value,'no también','no también','No también','que malo te puedo contar un chiste si quieres','te puedo contar un chiste si quieres')
 const queha3 = new bot(txttexto.value,'Que estás haciendo','que estás haciendo','que estás haciendo','nada','estoy conversando contigo');
-const holacomo3 = new bot(txttexto.value,'Cómo te sientes','cómo te sientes','Cómo te sientes','bien y tu','bien gracias y tu');
-const persolovemiquel = new bot(txttexto.value,'Que persona le gusta a Miquel','Que persona le gusta a miquel','que persona le gusta a miquel','bien y tu','bien gracias y tu');
-const persolovemiquel2 = new bot(txttexto.value,'QUE PERSONA LE GUSTA A MIQUEl','Qué persona le gusta a Miquel','que persona le gusta a Miquel','bien y tu','bien gracias y tu');
+const holacomo3 = new bot(txttexto.value,'Cómo te sientes','cómo te sientes','Cómo te sientes','No estoy autoriza en decir el nombre pero el nombre es "....."','No estoy autoriza en decir el nombre pero el nombre es "....."');
+const persolovemiquel = new bot(txttexto.value,'Que persona le gusta a Miquel','Que persona le gusta a miquel','que persona le gusta a miquel','No estoy autoriza en decir el nombre pero el nombre es "....."','No estoy autoriza en decir el nombre pero el nombre es "....."');
+const persolovemiquel2 = new bot(txttexto.value,'QUE PERSONA LE GUSTA A MIQUEl','Qué persona le gusta a Miquel','que persona le gusta a Miquel','No estoy autoriza en decir el nombre pero el nombre es "....."','No estoy autoriza en decir el nombre pero el nombre es "....."');
 })
